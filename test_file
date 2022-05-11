@@ -2,4 +2,7 @@ Let's start git
 Hello
 New change
 One more change
+<<<<<<< HEAD
 Amend data
+=======
+>>>>>>> 247e08c54343fa80a3ec364f6b6c10187611442b
